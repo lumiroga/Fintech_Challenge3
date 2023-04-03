@@ -1,1 +1,6 @@
-# Fintech_Challenge3
+# Crypto Arbitrage
+
+This is the third challenge for Columbia Fintech Bootcamp
+
+
+
