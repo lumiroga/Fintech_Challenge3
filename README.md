@@ -1,4 +1,4 @@
-# Challenge II | Arbitrage |Fintech <img src="https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_150420000000000001/attachments/590996/columbia.png" height="48" width="48">
+# Challenge III | Arbitrage |Fintech <img src="https://instructure-uploads-pdx.s3.us-west-2.amazonaws.com/account_150420000000000001/attachments/590996/columbia.png" height="48" width="48">
 
 ---
 
@@ -48,3 +48,15 @@ $ jupyter lab
 Open a browser with the displayed URL in Jupyter
 
 Look for *crypto_arbitrage.ipnyb* file and open it.
+
+## Contributors
+
+[lumiroga](https://github.com/lumiroga)
+
+---
+
+## License
+
+* mpl-2.0 | Mozilla Public License 2.0
+
+When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
